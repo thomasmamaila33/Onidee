@@ -1,1 +1,6 @@
-
+!pip install jovian
+import jovian
+jovian.commit(filename='final-tesla-gamestop.ipynb')
+!pip install yfinance
+!pip install bs4
+!pip install nbformat
